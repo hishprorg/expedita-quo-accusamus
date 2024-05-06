@@ -1,18 +1,56 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@hishprorg/expedita-quo-accusamus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "nareshkumarjaggi",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/esse-praesentium-eligendi": "^1.0.4",
+    "@hishprorg/aliquid-ad-vero": "^1.0.0",
+    "@hishprorg/autem-sint-quas": "^1.0.0",
+    "@hishprorg/cum-rem-consequuntur": "^1.0.0",
+    "@hishprorg/earum-sint-veritatis": "^1.0.0",
+    "@hishprorg/eius-vero-dicta": "^1.0.0",
+    "@hishprorg/est-dicta-quis": "^1.0.0",
+    "@hishprorg/itaque-esse-accusamus": "^1.0.0",
+    "@hishprorg/iure-optio-nihil": "^1.0.0",
+    "@hishprorg/magni-amet-id": "^1.0.0",
+    "@hishprorg/magni-nisi-aperiam": "^1.0.0",
+    "@hishprorg/maxime-voluptates-enim": "^1.0.0",
+    "@hishprorg/perspiciatis-ratione-unde": "^1.0.0",
+    "@hishprorg/quis-perferendis-culpa": "^1.0.0",
+    "@hishprorg/reprehenderit-excepturi-sed": "^1.0.0",
+    "@hishprorg/sint-nam-consequuntur": "^1.0.0",
+    "@hishprorg/sunt-officia-eligendi": "^1.0.0",
+    "@hishprorg/sunt-voluptatem-nobis": "^1.0.0",
+    "@hishprorg/unde-vitae-reprehenderit": "^1.0.0",
+    "@hishprorg/wafflejs": "^1.0.0",
+    "@juigorg/sit-nam-neque": "^1.0.4",
+    "@kollorg/dicta-itaque-nemo": "^1.0.4",
+    "@swenkerorg/modi-dolorum-provident": "^1.1.3",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^1.1.3",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "test",
+    "positive",
+    "cors",
+    "whatwg"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/hishprorg/expedita-quo-accusamus.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/hishprorg/expedita-quo-accusamus/#readme",
+  "bugs": {
+    "url": "https://github.com/hishprorg/expedita-quo-accusamus/issues"
   }
 }
